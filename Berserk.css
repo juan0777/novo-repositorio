@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    border-style: solid;
+    border-color: red;
+   
+}
+
+h1{
+    color: silver;
+    text-align: center;
+}
+
+p{
+    color: silver;
+}
+
+.estigma{
+   text-align: center;
+}
+ol{
+    color: silver;
+}
+
+.guts1{
+    text-align: center;
+    
+}
+
+.guts2{
+    text-align: center;
+    
+}
+
+img{
+    height: 250px;
+   
+}
+
+

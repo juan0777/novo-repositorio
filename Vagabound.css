@@ -1,0 +1,33 @@
+body{
+    
+    border-style: solid;
+    border-color: black;
+}
+
+.vagabound{
+    text-align: center;
+}
+
+img{
+    height: 200%;
+    width: 50%;
+    
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+p{
+    color: black;
+}
+
+.musashi1{
+    
+    text-align: center;
+}
+
+ol{
+    color: black;
+}
